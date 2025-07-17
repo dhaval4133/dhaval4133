@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi there, I'm Dhaval Dangar!
 
-<!--
-**dhaval4133/dhaval4133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student**  
+📍 L.D. College of Engineering, Ahmedabad  
+📅 Batch: 2022 - 2026  
+📧 dhavaldangar1416@gmail.com   
+🌐 [LinkedIn](https://www.linkedin.com/in/dhaval-dangar-6793a1257) | [GitHub](https://github.com/dhaval4133)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate full-stack developer with a strong foundation in computer science and a growing interest in Database Management, DevOps and cloud technologies. I love building responsive web applications, exploring modern frameworks, and solving real-world problems with clean and scalable code.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Fundamentals**
+- C, Java, JavaScript  
+- OOP, DBMS, OS, Networking
+
+**Frontend**
+- HTML, CSS, JavaScript  
+- ReactJS, Vite, Angular, TailwindCSS
+
+**Backend**
+- Node.js, Express.js, .NET Core  
+- RESTful APIs, JWT
+
+**Databases**
+- MongoDB, MySQL, PostgreSQL
+
+**Tools & DevOps**
+- Git & GitHub, Postman  
+- Docker (basics), VSCode  
+
+---
+
+## 🔥 Projects
+
+### [Interview Prep AI](https://github.com/dhaval4133/InterviewPrepAI)
+> AI-powered full-stack interview simulator  
+**Stack:** React, Vite, Tailwind, Node.js, Express, Google GenAI, MongoDB  
+- Generates dynamic interview questions with Google GenAI  
+- Secure auth (JWT), session handling, profile picture upload  
+- REST API, role-based flow handling
+
+### [ChatGPT Clone](https://github.com/dhaval4133/Chatgpt-Clone)
+> A modern AI chat UI inspired by ChatGPT  
+**Stack:** HTML, CSS, JavaScript, TailwindCSS, Gemini API  
+- Typing animation, dark mode, localStorage-based chat history  
+- Fully responsive, mobile-first design
+
+---
+
+## 💼 Internship
+
+### TatvaSoft (Summer Internship)
+**Tech:** Angular 14, .NET 8, PostgreSQL  
+- Developed full-stack apps with modern UI/UX  
+- Focused on real-world projects and REST APIs
+
+---
+
+
+## 📫 Let's Connect
+
+- 📧 Email: dhavaldangar1416@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dhaval-dangar-6793a1257)  
+- 🧑‍💻 [GitHub](https://github.com/dhaval4133)
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+
