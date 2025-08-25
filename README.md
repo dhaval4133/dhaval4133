@@ -46,6 +46,15 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 - Secure auth (JWT), session handling, profile picture upload  
 - REST API, role-based flow handling
 
+### [Quick Stay Hotel Booking App]((https://github.com/dhaval4133/Hotel-Booking.git)
+> Hotel Booking & Management Platform
+**Stack:**  React, Tailwind, Node.js, Express, PostgreSQL
+-Secure user authentication & session management (JWT)
+-Real-time room availability check & booking system
+-Admin panel for hotel management & inventory control
+-Integrated payment processing with booking confirmation
+
+
 ### [ChatGPT Clone](https://github.com/dhaval4133/Chatgpt-Clone)
 > A modern AI chat UI inspired by ChatGPT  
 **Stack:** HTML, CSS, JavaScript, TailwindCSS, Gemini API  
