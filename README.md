@@ -48,9 +48,8 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 
 ### [Quick Stay Hotel Booking App](https://github.com/dhaval4133/Hotel-Booking.git)
 > Hotel Booking & Management Platform
-
-**Stack:** React, Tailwind, Node.js, Express, PostgreSQL
-- Secure user authentication & session management (JWT)
+**Stack:** React, Tailwind, Node.js, Express, MongoDB
+- Secure user authentication & session management 
 - Real-time room availability check & booking system
 - Admin panel for hotel management & inventory control
 - Integrated payment processing with booking confirmation
