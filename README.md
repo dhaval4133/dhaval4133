@@ -46,7 +46,7 @@ I'm a passionate full-stack developer with a strong foundation in computer scien
 - Secure auth (JWT), session handling, profile picture upload  
 - REST API, role-based flow handling
 
-### [Quick Stay Hotel Booking App]((https://github.com/dhaval4133/Hotel-Booking.git)
+### [Quick Stay Hotel Booking App](https://github.com/dhaval4133/Hotel-Booking.git)
 > Hotel Booking & Management Platform
 **Stack:**  React, Tailwind, Node.js, Express, PostgreSQL
 -Secure user authentication & session management (JWT)
